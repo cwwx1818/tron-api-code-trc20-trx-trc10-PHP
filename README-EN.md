@@ -26,7 +26,7 @@ To get the source code, QQ: 1113249273 , wx: cww0128 The reason for adding a fri
 ------------
 
 
-### USDT (120~USDT), (800￥), Alipay (800￥)
+### USDT (150~USDT), Weixinpay(800￥), Alipay (800￥)
 
 
 
