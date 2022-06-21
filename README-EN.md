@@ -15,7 +15,7 @@ Interface document address: [https://www.showdoc.com.cn/1950021936889677/8867826
 > ### 6. ThinkPHP5 basic running requirements, this does not need to be said more
 ------------
 
-To get the source code, QQ: 1262135552 , wx: bishengzhu The reason for adding a friend is specified. Before adding a friend, see the interface document address below
+To get the source code, QQ: 1262135552 , wx: bishengshu The reason for adding a friend is specified. Before adding a friend, see the interface document address below
 
 
 # Tron-api-Tron interface source code-PHP version-ThinkPHP5 version
