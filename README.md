@@ -1,6 +1,8 @@
 # tron-api-code-trc20-trx-trc10  
 Tron-api-波场接口源码-PHP版本-ThinkPHP5版本  ，可无缝升级TP6
 
+# 目前已经基于这套API开发出来了靓号采集系统以及资金归集系统，相关详情看当前项目的doc文件
+
 加QQ请告知是通过什么途径找到我的（Thanks♪(･ω･)ﾉ   QQ：1262135552 （tronapi技术支持） ）
 
 接口文档地址：[https://www.showdoc.com.cn/1950021936889677/8867826777420288](https://www.showdoc.com.cn/1950021936889677/8867826777420288)
