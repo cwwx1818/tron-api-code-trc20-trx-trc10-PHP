@@ -1,5 +1,16 @@
 # tron-api-code-trc20-trx-trc10  
-Tron-api-波场接口源码-PHP版本-ThinkPHP5版本  ，可无缝升级TP6
+Tron-api-波场接口源码-PHP版本-ThinkPHP5版本  ，可无缝升级TP6。
+
+
+预计七月底升级新功能如下所示：
+1.维护一套tp6版本代码
+2.更新tron授权功能
+3.更新trx转账添加备注功能
+4.更新助记词转私钥功能
+
+当前售价：800RNB
+升级后售价：1500RNB
+老用户无需不差即可拿到新代码
 
 # 目前已经基于这套API开发出来了靓号采集系统以及资金归集系统，相关详情看当前项目的doc文件 ：[相关代码详细说明](   https://github.com/cwwx1818/tron-api-code-trc20-trx-trc10-PHP/blob/main/%E5%85%B3%E4%BA%8ETronapi%E7%9A%84%E8%AF%B4%E6%98%8E.docx)
 
